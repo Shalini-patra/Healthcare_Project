@@ -32,7 +32,8 @@ Projects covered:
 
 * **Pharma Sales & Inventory Dataset (Kaggle)**
   Source: Kaggle – Pharma Sales Data by Milan Zdravkovic
-  Dataset used for analyzing medicine sales, revenue contribution, stock movement, and inventory prioritization.
+  Dataset used for analyzing medicine sales, revenue contribution, stock movement, and inventory prioritization.  
+  https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data :contentReference[oaicite:0]{index=0}
 
   Key components leveraged:
 
@@ -42,7 +43,9 @@ Projects covered:
 
 * **Hospital Inpatient Discharges Dataset (SPARCS, New York State)**
   Source: New York State Department of Health – SPARCS De-Identified Inpatient Discharges
-  Dataset used for hospital diagnostics, LOS analysis, and bed occupancy modeling.
+  Dataset used for hospital diagnostics, LOS analysis, and bed occupancy modeling.  
+  https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/u4ud-w55t/about_data :contentReference[oaicite:1]{index=1}
+
 
   Key components leveraged:
 
