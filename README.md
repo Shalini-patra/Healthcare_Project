@@ -8,7 +8,7 @@ Projects covered:
  ### Live [Pharmo App](https://streamlit.app) available at Streamlit cloud 
 * **Interactive Hospital Diagnostics & Bed Occupancy Solution**
  ### Live [Grafana Dashboard](http://localhost:3000/goto/afsi17uvcrp4we?orgId=1) for healthcare clinic management and bed optimisation.
-
+ 
 ---
 
 ## 1. Pharmacy Inventory Solution
