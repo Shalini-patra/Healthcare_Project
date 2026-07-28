@@ -8,7 +8,13 @@ Projects covered:
  ### Live [Pharmo App](https://streamlit.app) available at Streamlit cloud 
 * **Interactive Hospital Diagnostics & Bed Occupancy Solution**
  ### Live [Grafana Dashboard](http://localhost:3000/goto/afsi17uvcrp4we?orgId=1) for healthcare clinic management and bed optimisation.
- 
+
+### Predict Length Of Stay to avoid discharge delays and optimise bed occupency:
+
+![Length Of Stay Prediction Model](image44.png)
+![](image22.png)
+
+
 ---
 
 ## 1. Pharmacy Inventory Solution
