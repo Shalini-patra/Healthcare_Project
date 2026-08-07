@@ -4,12 +4,19 @@ This repository documents the work completed across **two healthcare analytics s
 
 Projects covered:
 
-* **Inventory Solution (Pharmacy Inventory Analytics)**
- ### Live [Pharmo App](https://streamlit.app) available at Streamlit cloud 
-* **Interactive Hospital Diagnostics & Bed Occupancy Solution**
- ### Live [Grafana Dashboard](http://localhost:3000/goto/afsi17uvcrp4we?orgId=1) for healthcare clinic management and bed optimisation.
+<a href="https://pharmo.streamlit.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Go to%20Live Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="400">
+</a>
 
-### Predict Length Of Stay to avoid discharge delays and optimise bed occupency:
+* **Inventory Solution (Pharmacy Inventory Analytics)**
+
+<a href="http://localhost:3000/public-dashboards/7b090f098d2b4ea6a3c6f54bd4136f72">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Open%20Grafana%20Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=white" width="400">
+</a>
+
+* **Interactive Hospital Diagnostics & Bed Occupancy Solution**
+ 
+* **Predict Length Of Stay to avoid discharge delays and optimise bed occupency:**
 
 ![Length Of Stay Prediction Model](image44.png)
 ![](image22.png)
